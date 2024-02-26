@@ -24,7 +24,7 @@ This smart contract allows players to collect, build, and earn rewards for their
 
 ## Interacted using Remix
 
-![Remix](./img/remix.png)
+I then deployed the contracts on Remix, passing the ERC20 address as the constructor for the Vault contract, and interacted with both.
 
 ### Author
 
